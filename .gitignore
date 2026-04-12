@@ -2,8 +2,4 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
-outputs/*.png
-outputs/*.csv
-outputs/*.joblib
-outputs/*.fasta
-!outputs/.gitkeep
+
